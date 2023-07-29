@@ -4,7 +4,7 @@
     <nav class="bg-white sticky top-0 z-[10000] bg-opacity-75 backdrop-blur-[2px] border-gray-200 dark:bg-gray-900">
         <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
             <a href="https://ridwannurfauzi.github.io/" class="flex items-center">
-                <img src="icon.png" class="h-8 mr-3 hover:scale-125 hover:rotate-12 hover:hue-rotate-[30deg] transition-all" alt="Flowbite Logo" />
+                <img src="/icon.png" class="h-8 mr-3 hover:scale-125 hover:rotate-12 hover:hue-rotate-[30deg] transition-all" alt="Flowbite Logo" />
                 <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
                     <slot name="title">
                         Web Profile
