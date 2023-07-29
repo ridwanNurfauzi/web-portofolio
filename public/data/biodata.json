@@ -1,0 +1,22 @@
+{
+    "body": [
+        ["Nama", "M. Ridwan Nurfauzi"],
+        ["Tempat Lahir", "Bandung"],
+        ["Tanggal Lahir", "3 Mei 2006"],
+        ["Agama", "Islam"],
+        ["Jenis Kelamin", "Laki-laki"],
+        ["Asal Sekolah", "SMK Assalaam Bandung"]
+      ],
+      "skill": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Express.js",
+        "Vue.js",
+        "PHP",
+        "MySQL",
+        "Bootstrap",
+        "Tailwind"
+      ]
+}
